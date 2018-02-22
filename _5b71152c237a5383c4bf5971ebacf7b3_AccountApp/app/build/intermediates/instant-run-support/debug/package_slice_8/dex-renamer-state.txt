@@ -1,0 +1,4 @@
+#Thu Feb 22 08:12:45 CET 2018
+base.0=C\:\\Users\\lu.han\\Downloads\\_5b71152c237a5383c4bf5971ebacf7b3_AccountApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
